@@ -1,4 +1,5 @@
-# hello-world
+# hello-w
+above is correct.
 the first project
 today is 2018.05.23.
 i want to find somecode about cnn celerate.
